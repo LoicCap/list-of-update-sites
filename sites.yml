@@ -604,6 +604,23 @@ sites:
     maintainers:
       - "[Cookbook Team](https://imagej.net/imaging#Credits)"
 
+  - name: "SyncWindowsCrownBio"
+    id: "SyncWindowsCrownBio"
+    url: "https://sites.imagej.net/SyncWindowsCrownBio/"
+    description: >-
+      Plugins from Crown BioScience Netherland (https://github.com/OcellOBV/ImageJ_Plugins_Published)
+      
+      [SyncWindows Moldev] : Makes image browsing and comparison more efficient using the MOLDEV path system.
+                                  - Multiple synchronized images
+                                  - Switch between wells easily
+                                  - Compare images using overlays
+                                  - Automatically saves your view and comments.
+                                  - Export and import your view to share it with your team
+
+      [SyncWindows] : Makes image browsing and comparison more efficient but doesn't use the MOLDEV path system.
+    maintainers:
+      - "[Crown BioScience Netherland Team](https://github.com/OcellOBV/ImageJ_Plugins_Published)"
+
   - name: "CSBDeep"
     id: "CSBDeep"
     url: "https://sites.imagej.net/CSBDeep/"
